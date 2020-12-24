@@ -1,0 +1,9 @@
+.top-section-container{
+    display: flex;
+}
+.allignh{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
